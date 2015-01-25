@@ -1,8 +1,8 @@
 ---
-title: 'Statistical Inference Course Project'
+title: "Statistical Inference Course Project"
 author: "Jin-Hoon An"
 date: "Friday, January 23, 2015"
-output: pdf_document
+output: html_document
 ---
 
 # Part 1: Simulation Exercises

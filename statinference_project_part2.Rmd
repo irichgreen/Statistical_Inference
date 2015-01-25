@@ -1,8 +1,8 @@
 ---
-title: 'Statistical Inference Course Project'
-date: "Friday, January 23, 2015"
+title: "Statistical Inference Course Project"
 author: "Jin-Hoon An"
-output: pdf_document
+date: "Friday, January 23, 2015"
+output: html_document
 ---
 
 # Part 2: Basic Inferential Data Analysis
